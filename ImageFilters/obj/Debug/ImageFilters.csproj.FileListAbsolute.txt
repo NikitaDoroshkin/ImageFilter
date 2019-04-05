@@ -1,0 +1,9 @@
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\Nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
